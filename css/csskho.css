@@ -1,0 +1,50 @@
+.a{
+    float:left;
+}
+
+.anh1{
+    margin: 1%;
+}
+
+.anh2{
+    margin: 2%;
+}
+
+.anh3{
+    margin: 2%;
+}
+
+.anh1 img{
+    width: 230px;
+    height: 250px;
+}
+
+.anh2 img{
+    width: 145px;
+    height: 125px;
+}
+
+.anh3 img{
+    width: 145px;
+    height: 125px;
+}
+
+.filteradmin{
+    width:30%;
+    margin: 0.5% 2%;
+    padding: 0 2%;
+    float:right;
+}
+
+.formfilter{
+    display: flex;
+}
+
+.slboxfilter{
+    margin-left: 15%;
+}
+
+.btnfilter{
+    width:100%;
+    margin-left: 5%;
+}
